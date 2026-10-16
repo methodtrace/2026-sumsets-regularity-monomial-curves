@@ -1,0 +1,6 @@
+four-element sets with d <= 150: 461266, of which non-ACM: 258072
+fan conductor formulas, non-ACM criterion nu < mu, and tau >= T - 3: all hold
+for every non-ACM set the full maximum in the proof of Lemma 3.2 equals tau + 1
+Theorem A: reg = tau and (tau - 1)d >= c1 + c2 + d for every non-ACM set; least slack 0
+equality exactly for {0, b - 1, b + 1, 2b}, b even: 37 sets, the first [(0, 1, 3, 4), (0, 3, 5, 8), (0, 5, 7, 12)]
+non-ACM sets with tau = N + 2 and positive unrounded slack: 5632

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+type: software
+version: 1.0.0
+message: "If you use this code, please cite the paper it accompanies. Code: Apache-2.0; result files in results/: CC-BY-4.0."
+title: "Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves: computations"
+authors:
+  - family-names: Chaudhary
+    given-names: Prashant
+    orcid: "https://orcid.org/0009-0001-1980-109X"
+  - family-names: Khandelwal
+    given-names: Kapil
+    orcid: "https://orcid.org/0000-0002-5748-6019"
+license:
+  - Apache-2.0
+  - CC-BY-4.0
+doi: "10.5281/zenodo.23194227"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23194227"
+    description: "Zenodo software record of this code and its results"
+preferred-citation:
+  type: article
+  title: "Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves"
+  authors:
+    - family-names: Chaudhary
+      given-names: Prashant
+    - family-names: Khandelwal
+      given-names: Kapil
+  year: 2026

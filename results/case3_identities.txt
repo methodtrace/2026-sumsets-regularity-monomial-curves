@@ -1,0 +1,5 @@
+xi1 + xi2 - d = pbar(X + 2Y + f + sbar - pbar - t), which is zero by relation (3.4)
+D_11: d(pbar + e) - 2 - (choice) = stated form - (sbar + w)(xi1 + xi2 - d)
+D_12: d(pbar + e) - 2 - (choice) = stated form - (sbar + w)(xi1 + xi2 - d)
+D_21: d(pbar + e) - 2 - (choice) = stated form - (sbar + w)(xi1 + xi2 - d)
+D_22: d(pbar + e) - 2 - (choice) = stated form - (sbar + w)(xi1 + xi2 - d)

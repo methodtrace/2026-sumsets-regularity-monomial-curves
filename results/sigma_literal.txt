@@ -1,0 +1,10 @@
+Theorem 4.5, I, J, K <= 11: 102 sets with reg < sigma; reg < sigma_lit for all; least sigma_lit - reg 1; sigma_lit < sigma for 6
+  (0, 35, 75, 131): reg 18, sigma_lit 19, sigma 19
+  (0, 35, 91, 131): reg 18, sigma_lit 19, sigma 19
+  (0, 40, 75, 131): reg 18, sigma_lit 19, sigma 19
+  (0, 40, 96, 131): reg 18, sigma_lit 19, sigma 19
+  (0, 56, 91, 131): reg 18, sigma_lit 19, sigma 19
+  (0, 56, 96, 131): reg 18, sigma_lit 19, sigma 19
+  sets with sigma_lit < sigma: d = [257]
+Theorem 5.3, m, n <= 18: 130 sets with reg < sigma; reg < sigma_lit for all; least sigma_lit - reg 1; sigma_lit < sigma for 0
+  least d: (0, 30, 35, 65, 101): reg 10, sigma_lit 11, sigma 11

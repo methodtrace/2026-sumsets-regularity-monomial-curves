@@ -1,0 +1,5 @@
+Copyright 2026 Prashant Chaudhary and Kapil Khandelwal
+
+Source code: Apache License 2.0 (LICENSE).
+Result files in results/: Creative Commons Attribution 4.0 (LICENSE-DATA).
+The scripts use only the Python standard library; no third-party code is bundled.

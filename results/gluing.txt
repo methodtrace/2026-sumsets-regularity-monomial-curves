@@ -1,0 +1,2 @@
+gluings with d' <= 40: 5605 of ACM sets (12 with c1' + c2' = 1 mod d') and 4674 of non-ACM sets; every assertion holds
+example: {0, 80, 131, 150, 262} (from {0, 40, 75, 131}, g = 2): ACM True, reg 19, sigma 20

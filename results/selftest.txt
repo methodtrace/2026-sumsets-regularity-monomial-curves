@@ -1,0 +1,2 @@
+4-element sets with d <= 40: 8410; Apery-set invariants equal direct sumsets in every case
+5-element sets with d <= 24: 10061; Apery-set invariants equal direct sumsets in every case

@@ -1,0 +1,10 @@
+ACM four-element sets with d <= 131: 138435; every assertion holds
+least value of 10 reg - 2 - 9N: 6, at (0, 6, 16, 31) (reg 8, N 8)
+sets attaining it: 6, with d in [31]: [(0, 6, 16, 31), (0, 6, 21, 31), (0, 10, 16, 31), (0, 10, 25, 31), (0, 15, 21, 31), (0, 15, 25, 31)]
+sets with reg < sigma: 6
+  (0, 35, 75, 131): reg 18, sigma 19
+  (0, 35, 91, 131): reg 18, sigma 19
+  (0, 40, 75, 131): reg 18, sigma 19
+  (0, 40, 96, 131): reg 18, sigma 19
+  (0, 56, 91, 131): reg 18, sigma 19
+  (0, 56, 96, 131): reg 18, sigma 19

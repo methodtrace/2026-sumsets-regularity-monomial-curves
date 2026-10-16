@@ -1,0 +1,10 @@
+triples checked: 469; with reg < sigma: 102; smallest d: 131, e.g. (0, 40, 75, 131) from (I, J, K) = (5, 7, 8)
+odd subfamily: formulas confirmed by direct computation for odd n <= 15 and by integer arithmetic for odd n <= 9999
+  n = 1: reg 4, sigma 3
+  n = 3: reg 10, sigma 10
+  n = 5: reg 16, sigma 16
+  n = 7: reg 22, sigma 23
+  n = 9: reg 28, sigma 30
+  n = 99: reg 298, sigma 330
+  n = 999: reg 2998, sigma 3330
+  n = 9999: reg 29998, sigma 33330

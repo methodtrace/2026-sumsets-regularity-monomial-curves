@@ -1,0 +1,4 @@
+4 elements, d <= 60, reg >= 0: ACM sets 14585; largest E/(d(reg + 2)) = 1/9 = 0.1111 at (0, 1, 2, 3) (reg 1, E 1)
+4 elements, d <= 60, reg >= 4: ACM sets 14585; largest E/(d(reg + 2)) = 5/47 = 0.1064 at (0, 12, 27, 47) (reg 10, E 60)
+5 elements, d <= 50, reg >= 0: ACM sets 52680; largest E/(d(reg + 2)) = 2/9 = 0.2222 at (0, 2, 5, 6, 9) (reg 2, E 8)
+5 elements, d <= 50, reg >= 6: ACM sets 52680; largest E/(d(reg + 2)) = 9/49 = 0.1837 at (0, 7, 12, 19, 49) (reg 6, E 72)

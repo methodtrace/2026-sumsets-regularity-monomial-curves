@@ -1,0 +1,11 @@
+coprime pairs m, n <= 18: 203; all formulas confirmed; reg < sigma in 130
+least d with reg < sigma: d = 101, (m, n) = (6, 5), A = (0, 30, 35, 65, 101), reg 10, sigma 11; the only one among all 69 coprime pairs with d <= 101
+Pell sequence (m, n): d, reg, c1, c2, sigma
+  (3, 2): 23, 4, 34, 38, 4
+  (17, 12): 709, 28, 11052, 11056, 32
+  (99, 70): 23731, 168, 2316510, 2315838, 196
+  (577, 408): 804169, 984, 462895992, 462868416, 1152
+  (3363, 2378): 27306575, 5740, 91794359866, 91793395382, 6724
+  (19601, 13860): 927552781, 33460, 18179683234020, 18179650308400, 39200
+subfamily (m, n) = (2j + 1, j): reg = 3j, sigma = 3j + floor(j/2) - 1, checked for j <= 9999
+  j = 8: A = (0, 136, 144, 280, 569), reg 24, sigma 27

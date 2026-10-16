@@ -1,0 +1,3 @@
+* text=auto eol=lf
+results/*.txt -text
+MANIFEST.sha256 -text
