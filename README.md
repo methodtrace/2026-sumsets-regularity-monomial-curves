@@ -1,16 +1,22 @@
-# Sumsets regularity versus Castelnuovo-Mumford regularity: computations
+# Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves: computational artifact
 
 This archive reproduces every computation in the paper
 
 > P. Chaudhary and K. Khandelwal, *Sumsets regularity versus Castelnuovo-Mumford regularity for
-> monomial curves*.
-
-Archive DOI: [10.5281/zenodo.23194227](https://doi.org/10.5281/zenodo.23194227)
+> monomial curves*, arXiv:2610.24121 [math.AC], 2026. https://arxiv.org/abs/2610.24121
 
 The theorems are proved in the paper. A few finite assertions (that no four-element set with
 d < 131 has reg < sigma and exactly six have d = 131, Remark 4.7, the least member of the band family with
 reg < sigma, and that these counterexamples do not depend on the reading of the structure decomposition) are established by these computations; the other statements listed in Table 1 of the
 paper are checked on the finite ranges given there. The scripts use only the Python standard library.
+
+## Identifiers
+
+- Cite this version (1.0.0): https://doi.org/10.5281/zenodo.23194227
+- All versions: https://doi.org/10.5281/zenodo.23194226
+- Preprint: arXiv:2610.24121, https://doi.org/10.48550/arXiv.2610.24121
+- Published version: not yet accepted
+- Repository: https://github.com/methodtrace/2026-sumsets-regularity-monomial-curves, tag `v1.0.0`
 
 ## Requirements
 

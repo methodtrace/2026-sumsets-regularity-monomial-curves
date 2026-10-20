@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: software
 version: 1.0.0
 message: "If you use this code, please cite the paper it accompanies. Code: Apache-2.0; result files in results/: CC-BY-4.0."
-title: "Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves: computations"
+title: "Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves: computational artifact"
 authors:
   - family-names: Chaudhary
     given-names: Prashant
@@ -13,11 +13,19 @@ authors:
 license:
   - Apache-2.0
   - CC-BY-4.0
+date-released: "2026-10-16"
+repository-code: "https://github.com/methodtrace/2026-sumsets-regularity-monomial-curves"
 doi: "10.5281/zenodo.23194227"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.23194227"
-    description: "Zenodo software record of this code and its results"
+    description: "This version (1.0.0) of this artifact"
+  - type: doi
+    value: "10.5281/zenodo.23194226"
+    description: "All versions of this artifact"
+  - type: doi
+    value: "10.48550/arXiv.2610.24121"
+    description: "arXiv preprint of the associated manuscript"
 preferred-citation:
   type: article
   title: "Sumsets regularity versus Castelnuovo-Mumford regularity for monomial curves"
@@ -27,3 +35,5 @@ preferred-citation:
     - family-names: Khandelwal
       given-names: Kapil
   year: 2026
+  doi: "10.48550/arXiv.2610.24121"
+  url: "https://arxiv.org/abs/2610.24121"
